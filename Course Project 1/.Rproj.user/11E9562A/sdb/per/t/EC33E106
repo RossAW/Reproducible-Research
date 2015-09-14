@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1442199100948.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EC33E106",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "b1e7fymmqk",
+        "caption" : "TotalStepsByWeekday",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=TotalStepsByWeekday&cache_key=b1e7fymmqk",
+        "displayedObservations" : "2",
+        "environment" : "",
+        "object" : "TotalStepsByWeekday",
+        "totalObservations" : "2",
+        "variables" : "4"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
