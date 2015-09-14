@@ -53,7 +53,7 @@ print(HistStepsPerDay)
 
 ![](PA1_template_files/figure-html/unnamed-chunk-3-1.png) 
 
-Looks like the most frequent amount of steps taken was in the 10,000 and 0 regions. It looks the NAs in the data are being treated as 0 when plotting. Lets have a look at the mean and median.
+Looks like the most frequent amount of steps taken was in the 10,000 and 0 regions. It looks like the NAs in the data are being treated as 0 when plotting. Lets have a look at the mean and median.
 
 
 ```r
@@ -177,7 +177,7 @@ There isn't as much early morning activity on Saturday, Sunday and Thursday. Let
 
 
 ```r
-#If you know a better way of doing this 
+#If you know a better way of doing this please let me know.
 WeekdayData<-RawDataMinusNAs[RawDataMinusNAs$Weekday=="Monday" |
                                  RawDataMinusNAs$Weekday=="Tuesday" |
                                  RawDataMinusNAs$Weekday=="Wednesday" |
@@ -233,7 +233,7 @@ TotalStepsByWeekday[,c(1,3)]
 ## 2 Weekend 12201.52
 ```
 
-The subject is more active on the weekend then he is during the week.
+Overall the subject is more active on the weekend then he is during the week.
 
 
 
