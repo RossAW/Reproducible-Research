@@ -1,0 +1,10 @@
+Course Project 2/repdata-data-StormData.csv
+
+# History files
+.Rhistory
+.Rapp.history
+
+# RStudio files
+.Rproj.user/
+
+.RData
